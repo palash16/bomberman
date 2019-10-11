@@ -104,4 +104,4 @@ sudo pip3 install requirements.txt
 
 ## Developer
 
-* **Kanav Gupta (20161151)**
+* **Palash Agarwal**
