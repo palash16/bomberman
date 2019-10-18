@@ -102,6 +102,3 @@ sudo pip3 install requirements.txt
 
 ![alt text](./bmbmn.png)
 
-## Developer
-
-* **Kanav Gupta (20161151)**
